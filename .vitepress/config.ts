@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Fantastic-admin 官方文档',
+  title: 'Fantastic-admin 文档 (v1)',
   description: '一款开箱即用的 Vue 中后台管理系统框架。',
   lang: 'zh-CN',
   base: '/v1-docs/',
