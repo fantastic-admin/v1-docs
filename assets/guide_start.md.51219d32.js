@@ -1,0 +1,17 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.a70be969.js";const E=JSON.parse('{"title":"开始","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md"}'),p={name:"guide/start.md"},e=l(`<h1 id="开始" tabindex="-1">开始 <a class="header-anchor" href="#开始" aria-label="Permalink to &quot;开始&quot;">​</a></h1><div class="danger custom-block"><p class="custom-block-title">DANGER</p><p>本文档为 v1 版本 (Vue2) 文档，目前 v1 版本已停止维护。</p></div><p>阅读开发文档前，请确保手上已经有 Fantastic-admin 源码，因为文档中提及的内容，都是需要在本地项目中编写或修改代码并运行才能呈现的。</p><h2 id="运行" tabindex="-1">运行 <a class="header-anchor" href="#运行" aria-label="Permalink to &quot;运行&quot;">​</a></h2><p>本框架需要你本地安装 <a href="https://nodejs.org/zh-cn/" target="_blank" rel="noreferrer">Node.js</a> 和 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">Git</a> ，同时我们强烈建议你安装并使用 <a href="https://classic.yarnpkg.com/zh-Hans/" target="_blank" rel="noreferrer">Yarn</a> 做为包管理工具。</p><p>做好准备工作后，在项目目录下依次执行下面的命令：</p><div class="language-sh vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">sh</span><pre class="shiki github-dark vp-code-dark"><code><span class="line"><span style="color:#6A737D;"># 安装项目依赖（框架使用 yarn 进行依赖包的版本锁定，建议使用 yarn 进行安装）</span></span>
+<span class="line"><span style="color:#B392F0;">yarn</span></span>
+<span class="line"><span style="color:#6A737D;"># 或者</span></span>
+<span class="line"><span style="color:#B392F0;">npm</span><span style="color:#E1E4E8;"> </span><span style="color:#9ECBFF;">install</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D;"># 运行项目</span></span>
+<span class="line"><span style="color:#B392F0;">yarn</span><span style="color:#E1E4E8;"> </span><span style="color:#9ECBFF;">run</span><span style="color:#E1E4E8;"> </span><span style="color:#9ECBFF;">serve</span></span>
+<span class="line"><span style="color:#6A737D;"># 或者</span></span>
+<span class="line"><span style="color:#B392F0;">npm</span><span style="color:#E1E4E8;"> </span><span style="color:#9ECBFF;">run</span><span style="color:#E1E4E8;"> </span><span style="color:#9ECBFF;">serve</span></span></code></pre><pre class="shiki github-light vp-code-light"><code><span class="line"><span style="color:#6A737D;"># 安装项目依赖（框架使用 yarn 进行依赖包的版本锁定，建议使用 yarn 进行安装）</span></span>
+<span class="line"><span style="color:#6F42C1;">yarn</span></span>
+<span class="line"><span style="color:#6A737D;"># 或者</span></span>
+<span class="line"><span style="color:#6F42C1;">npm</span><span style="color:#24292E;"> </span><span style="color:#032F62;">install</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#6A737D;"># 运行项目</span></span>
+<span class="line"><span style="color:#6F42C1;">yarn</span><span style="color:#24292E;"> </span><span style="color:#032F62;">run</span><span style="color:#24292E;"> </span><span style="color:#032F62;">serve</span></span>
+<span class="line"><span style="color:#6A737D;"># 或者</span></span>
+<span class="line"><span style="color:#6F42C1;">npm</span><span style="color:#24292E;"> </span><span style="color:#032F62;">run</span><span style="color:#24292E;"> </span><span style="color:#032F62;">serve</span></span></code></pre></div><p>运行成功后，会自动访问页面，默认情况下，地址为 <code>http://localhost:8080</code></p>`,8),o=[e];function t(r,c,i,y,d,h){return a(),n("div",null,o)}const u=s(p,[["render",t]]);export{E as __pageData,u as default};

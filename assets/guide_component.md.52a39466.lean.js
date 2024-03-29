@@ -1,0 +1,1 @@
+import{_ as e,o,c,Q as a}from"./chunks/framework.a70be969.js";const u=JSON.parse('{"title":"组件","description":"","frontmatter":{},"headers":[],"relativePath":"guide/component.md","filePath":"guide/component.md"}'),t={name:"guide/component.md"},d=a("",9),n=[d];function i(s,r,p,l,_,m){return o(),c("div",null,n)}const f=e(t,[["render",i]]);export{u as __pageData,f as default};

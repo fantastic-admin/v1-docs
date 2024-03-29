@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.a70be969.js";const u=JSON.parse('{"title":"CDN 支持","description":"","frontmatter":{},"headers":[],"relativePath":"guide/cdn.md","filePath":"guide/cdn.md"}'),l={name:"guide/cdn.md"},o=p("",12),e=[o];function c(t,r,i,E,y,d){return a(),n("div",null,e)}const g=s(l,[["render",c]]);export{u as __pageData,g as default};
